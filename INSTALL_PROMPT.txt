@@ -1,0 +1,12 @@
+请帮我安装“提问增强与思考路由”技能：
+https://github.com/LINYU19990730/prompt-method-router
+
+技能目录：skills/prompt-method-router
+技能名称：prompt-method-router
+分支：main
+
+请先检查技能内容，再按当前平台支持的方式完整安装整个技能目录，
+包含 SKILL.md、agents、references 和 assets。
+保留十二条完整原文 Prompt、具体问法和多轮等待规则，支持时开启自动调用。
+安装后验证技能可加载、十二条参考模板齐全。
+如果当前平台不支持安装，请如实说明，不要把阅读成功当成安装成功。
